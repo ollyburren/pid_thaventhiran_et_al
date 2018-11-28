@@ -1,0 +1,4 @@
+get_GWAS_prioritised_monogenic.R - Code for priortising monogenic PID causes using GWAS.
+meta_analysis.R- Code for fixed effect meta-analysis of Li et al with AD-PID GWAS.
+telomere_codd_comparison.R - comparison of GWAS results from telomerecat with Codd et al.
+compute_ai_enrichment.R - Code to compute enrichment of other diseases and traits in AD-PID GWAS.

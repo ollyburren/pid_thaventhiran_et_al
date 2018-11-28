@@ -1,0 +1,2 @@
+parselofVCF.R - Uses BCFTOOLS to locate loss of function variants in neccessary genes
+filterCHET.R - Combined analysis that identifies and classifies CHETS based on schematic (figure2a) and returns tables of  candidates 
