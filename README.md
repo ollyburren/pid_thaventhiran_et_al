@@ -3,7 +3,7 @@ Code for Primary Immune Deficiency (PID) analysis presented in  Thaventhiran et 
 This code is for illustrative purposes only and will not run without necessary resource files.
 
 ## R session info
-> sessionInfo()
+```> sessionInfo()
 R version 3.3.3 (2017-03-06)
 Platform: x86_64-redhat-linux-gnu (64-bit)
 Running under: Scientific Linux 7.5 (Nitrogen)
@@ -77,3 +77,4 @@ loaded via a namespace (and not attached):
 [73] GenomicAlignments_1.10.1      AnnotationDbi_1.36.2
 [75] memoise_1.1.0                 bindrcpp_0.2
 [77] cluster_2.0.6                 interactiveDisplayBase_1.12.0
+```
